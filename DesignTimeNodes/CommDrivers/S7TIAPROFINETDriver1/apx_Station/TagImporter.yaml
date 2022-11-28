@@ -16,4 +16,4 @@ Children:
 - Name: FilePath
   Type: BaseDataVariableType
   DataType: AbsoluteResourceUri
-  Value: "ns=2;%PROJECTDIR%/Elementary_data_types-ScopeDB.ap16"
+  Value: "file:///C:/Users/vli2/Documents/Rockwell Automation/FactoryTalk Optix/Projects/NewHMIProject2/ProjectFiles/Elementary_data_types-ScopeDB/Elementary_data_types-ScopeDB.ap16"
