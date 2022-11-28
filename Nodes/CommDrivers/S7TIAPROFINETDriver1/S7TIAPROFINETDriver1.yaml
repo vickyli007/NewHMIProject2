@@ -1,0 +1,4 @@
+Name: S7TIAPROFINETDriver1
+Type: S7TiaProfinetDriver
+Children:
+- File: apx_Station/apx_Station.yaml

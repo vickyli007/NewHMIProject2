@@ -1,0 +1,19 @@
+Name: TagImporter
+Type: S7TiaProfinetTagImporter
+OwnerId: ns=2;g=4135c0c1a5e021afe4e16f5823d25977
+Children:
+- Name: IgnoredPLCItems
+  Type: BaseDataVariableType
+  DataType: BaseDataType
+  ValueRank: OneDimension
+  ArrayDimensions: [0]
+- Name: IgnoredHMIItems
+  Type: BaseDataVariableType
+  DataType: NodeId
+  ValueRank: OneDimension
+  ArrayDimensions: [0]
+  Value: []
+- Name: FilePath
+  Type: BaseDataVariableType
+  DataType: AbsoluteResourceUri
+  Value: "ns=2;%PROJECTDIR%/Elementary_data_types-ScopeDB.ap16"
